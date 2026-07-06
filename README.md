@@ -1,2 +1,9 @@
-# mbti_personality_guide
-An information website about the 16 MBTI personality types built with HTML and CSS
+# MBTI Personality Guide
+This project is an information website about the 16 MBTI personality types.
+##Technologies
+-HTML5
+-CSS3
+##Features
+-Responsive layout
+-Clean user interface
+-Infromation about MBTI personality types
