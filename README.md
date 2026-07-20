@@ -7,3 +7,5 @@ This project is an information website about the 16 MBTI personality types.
 -Responsive layout
 -Clean user interface
 -Infromation about MBTI personality types
+## Author
+Ceylin KALE
